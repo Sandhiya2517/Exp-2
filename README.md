@@ -6,8 +6,7 @@
 Actors Used-:
 1) Librarian
 2) Student
-3) Staff
-4) Admin
+3) Management
 
 Software - StarUML
 
